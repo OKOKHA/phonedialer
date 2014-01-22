@@ -14,5 +14,5 @@ To add the plugin:
 	** must be ran in the root directory of your cordova project.
 
 To use:
-	window.plugins.phoneDialer.dial( '+12125551212' );
+	PhoneDialer.dial( '+12125551212' );
 	** ONLY NUMBERS AND + sign
