@@ -5,7 +5,7 @@
     <license>Apache 2.0</license>
     <keywords>cordova,phonedialer</keywords>
     <js-module src="www/PhoneDialer.js" name="PhoneDialer">
-        <clobbers target="window.plugins.phoneDialer.dial" />
+        <clobbers target="PhoneDialer.dial" />
     </js-module>
     <!-- ios -->
     <platform name="ios">    
