@@ -16,7 +16,7 @@ Information
 --------------------------------------------------
 This plugin was developed using a simple method of dialing phones, it will use:
 
-document.location = "tel" + phnum
+	document.location = "tel" + phnum
 
 when the OS is not iOS, so the same function can work cross platform (as cordova was intended).
 
