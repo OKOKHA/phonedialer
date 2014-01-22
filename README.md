@@ -26,10 +26,10 @@ To add the plugin:
 
 	cordova plugin add https://github.com/encke/phonedialer.git
 	
-	** must be ran in the root directory of your cordova project.
+** must be ran in the root directory of your cordova project.
 
 To use:
 
 	PhoneDialer.dial( '+12125551212' );
 	
-	** ONLY NUMBERS AND + sign
+** ONLY NUMBERS AND + sign
