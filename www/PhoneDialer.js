@@ -1,3 +1,4 @@
+
 var CallDialer = {
 	dial: function( phnum )	{
 		if( device.platform == "iOS" )	{
