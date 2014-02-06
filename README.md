@@ -30,6 +30,6 @@ To add the plugin:
 
 To use:
 
-	CallDialer.dial( '+12125551212' );
+	PhoneDialer.dial( '+12125551212' );
 	
 ** ONLY NUMBERS AND + sign
