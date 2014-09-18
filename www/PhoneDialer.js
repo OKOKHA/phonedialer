@@ -5,7 +5,7 @@
 		if( device.platform == "iOS" )	{
   	  		exec( null, null, "PhoneDialer", "dialPhone", [phnum] );
 		}	else	{
-			document.location = "tel:" + phnum;
+			window.open( ( "tel:" + phnum ), "_system" );
 		}
 	};
 	
